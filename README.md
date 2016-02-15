@@ -39,5 +39,5 @@ docker run \
 
 Now you can open browser windows for Jupyter Notebook and TensorBoard:
 
-+ On Linux: open http://localhost:8888 and http://localhost:6006
++ On Linux: open [http://localhost:8888](http://localhost:8888) and [http://localhost:6006](http://localhost:8888)
 + On OS X, run `open http://$(docker-machine ip):8888  http://$(docker-machine ip):6006`
