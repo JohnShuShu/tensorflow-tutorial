@@ -46,3 +46,7 @@ If everything went fine, you should see something like this:
 
 ![Jupyter window](jupyter.png)
 ![TensorBoard window](tensorboard.png)
+
+Congratulations, you have installed the tutorial environment!
+
+You can now open the notebook "01 Test installation" in Jupyter and follow its instructions to check that TensorFlow is indeed working.
