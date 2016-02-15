@@ -2,10 +2,10 @@
 
 If you don't have Docker installed already:
 
-- On Linux, [install docker](https://docs.docker.com/linux/step_one/)
+- On Linux, [install Docker](https://docs.docker.com/linux/step_one/)
 - On OS X or Windows:
-    + Install [Docker Toolbox](https://www.docker.com/products/docker-toolbox)
-    + Start docker shell with Docker Quickstart Terminal application
+    + [Install Docker Toolbox](https://www.docker.com/products/docker-toolbox)
+    + Run the Docker Quickstart Terminal application and use that as your shell for the rest of this tutorial
 
 Then run the following commands:
 
@@ -39,5 +39,5 @@ docker run \
 
 Now you can open browser windows for Jupyter Notebook and TensorBoard:
 
-+ On Linux: `http://localhost:8888` and `http://localhost:6006`
++ On Linux: open http://localhost:8888 and http://localhost:6006
 + On OS X, run `open http://$(docker-machine ip):8888  http://$(docker-machine ip):6006`
