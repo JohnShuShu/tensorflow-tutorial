@@ -44,8 +44,8 @@ Now you can open browser windows for Jupyter Notebook and TensorBoard:
 
 If everything went fine, you should see something like this:
 
-![Jupyter window](images/jupyter.png)
-![TensorBoard window](images/tensorboard.png)
+![Jupyter window](images/jupyter_installed.png)
+![TensorBoard window](images/tensorboard_installed.png)
 
 Congratulations, you have installed the tutorial environment!
 
