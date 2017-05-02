@@ -1,3 +1,6 @@
+This is a short tutorial on Tensorflow I gave for Reaktor in March 2016. Currently there are probably more complete and more up-to-date tutorials available on the net.
+
+
 ## Installation instructions
 
 If you don't have Docker installed already:
